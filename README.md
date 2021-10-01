@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/sonawanevivek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sonawanevivek" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.v1v3k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dev.v1v3k" height="30" width="40" /></a>
@@ -17,10 +18,10 @@
 
 <br>
 
+
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveeeeeek&show_icons=true&locale=en" alt="viveeeeeek" /></p>
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viveeeeeek&layout=compact&langs_count=8&title_color=F58529"/>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveeeeeek&show_icons=true&locale=en" alt="viveeeeeek" /></p>
 </div>
 
 

@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonawane-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="sonawane-vivek" /> </p>
 
 - 🔭 I’m currently exploring **everything**
-
 - 🌱 I’m currently learning **Flutter**
 
 

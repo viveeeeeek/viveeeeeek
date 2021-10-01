@@ -10,9 +10,7 @@
 
 
 ## 📫 Connect with me
-![Instagram](https://img.shields.io/badge/dev.v1v3k-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium.com/@viveeeeeek-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
-
+- [Instagram](https://instagram.com/dev.v1v3k)
 - [Medium](https://medium.com/@viveeeeeek) 😏
 - [Dev.to](https://dev.to/sonawanevivek) 🔨✒
 - [Stackoverflow](https://stackoverflow.com/users/14314951/v1v3k) 💌

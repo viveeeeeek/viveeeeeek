@@ -1,7 +1,7 @@
 ![](https://github.com/viveeeeeek/viveeeeeek/blob/main/banner.png)
 
 
-<h1 align="left">Hi 👋, I'm Vivek Sonawane</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonawane-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="sonawane-vivek" /> </p>
 

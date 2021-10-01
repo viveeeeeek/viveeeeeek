@@ -35,3 +35,5 @@
 </div>
 
 [![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z7jg2sifhu9yrcznlfwdhyx5n)

@@ -20,7 +20,7 @@
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=viralvaghela&show_icons=true&include_all_commits=true&title_color=F58529&icon_color=F58529" alt="viral's github stats" /> 
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viralvaghela&layout=compact&langs_count=8&title_color=F58529"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viveeeeeek&layout=compact&langs_count=8&title_color=F58529"/>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveeeeeek&show_icons=true&locale=en" alt="viveeeeeek" /></p>

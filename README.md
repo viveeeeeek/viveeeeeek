@@ -35,6 +35,7 @@
 </div>
 
 
+</div>
 <div align="center">
-[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
+    <pre>[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)</pre>
 </div>

@@ -1,4 +1,4 @@
-![](https://github.com/viveeeeeek/viveeeeeek/banner.png)
+![](https://github.com/viveeeeeek/viveeeeeek/blob/main/banner.png)
 
 
 <h1 align="left">Hi 👋, I'm Vivek Sonawane</h1>

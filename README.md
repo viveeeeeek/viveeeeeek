@@ -25,7 +25,11 @@
 
 <br>
 
+
+
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=viveeeeeek&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/viveeeeeek)
+   
+   
    
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
@@ -38,14 +42,14 @@
 </div>
 
 
-<div align="center">
-    <pre>Stargazers</pre>
-</div>
-
 ## Watch my contribution graph :)
 ![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
 
-[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
+
+<div align="center">
+    <pre>Stargazers</pre>
+</div>
+[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/dark/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
 
 
 

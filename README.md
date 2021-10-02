@@ -64,7 +64,8 @@
     <pre>Stargazers</pre>
 </div>
 
-![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.gif)
+## Watch my contribution graph :)
+![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
 
 [![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
 

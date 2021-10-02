@@ -32,6 +32,16 @@
 </div>
 
 
+<div align="center">
+    <pre>Stargazers</pre>
+</div>
+
+## Watch my contribution graph :)
+![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
+
+[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
+
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -58,14 +68,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-
-<div align="center">
-    <pre>Stargazers</pre>
-</div>
-
-## Watch my contribution graph :)
-![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
-
-[![Stargazers repo roster for @viveeeeeek/viveeeeeek](https://reporoster.com/stars/viveeeeeek/viveeeeeek)](https://github.com/viveeeeeek/viveeeeeek/stargazers)
-

@@ -25,15 +25,13 @@
 
 <br>
 
-
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=viveeeeeek&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/viveeeeeek)
+   
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
-   [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=viveeeeeek&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/viveeeeeek)
-
-
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=viveeeeeek&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=viveeeeeek&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=viveeeeeek&theme=prussian&hide_border=true" />
 </p>
 <br>

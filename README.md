@@ -42,7 +42,7 @@
 </div>
 
 
-## Watch my contribution graph :)
+## Watch my contribution graph get eaten by Snake🐍 hisss!
 ![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
 
 

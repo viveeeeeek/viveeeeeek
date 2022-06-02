@@ -1,20 +1,12 @@
 ![](https://github.com/viveeeeeek/viveeeeeek/blob/main/banner.png)
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- 🔭 I’m currently exploring **everything**
-- 🌱 I’m currently learning **Flutter**
-
-
-
 
 ## 📫 Connect with me
 - [Instagram](https://instagram.com/dev.v1v3k)
 - [Medium](https://medium.com/@viveeeeeek) 😏
 - [Dev.to](https://dev.to/sonawanevivek) 🔨✒
 - [Stackoverflow](https://stackoverflow.com/users/14314951/v1v3k) 💌
-- [Reddit](https://www.reddit.com/user/viveeeeeek) 💌
 
 
 

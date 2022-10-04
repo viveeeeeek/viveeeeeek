@@ -3,7 +3,7 @@
 
 
 ## 📫 Connect with me
-- [Instagram](https://instagram.com/dev.v1v3k)
+- [Instagram](https://instagram.com/viveeeeeek)
 - [Medium](https://medium.com/@viveeeeeek) 😏
 - [Dev.to](https://dev.to/sonawanevivek) 🔨✒
 - [Stackoverflow](https://stackoverflow.com/users/14314951/v1v3k) 💌

@@ -1,3 +1,4 @@
+![LinkedIn Banner](https://user-images.githubusercontent.com/64553247/224408765-7ae29ae2-a93c-4b2c-908f-d773013b4597.png)
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vivek
 

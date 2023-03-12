@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "YourFontName";
+  src: url("./CircularStd-Regular.ttf") format("truetype");
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "YourFontName", sans-serif;
+}

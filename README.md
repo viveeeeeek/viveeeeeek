@@ -2,6 +2,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vivek
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF0674&width=435&lines=Hi+there!+I'm+Vivek!)](https://git.io/typing-svg)
 
 As an experienced Flutter developer, I am passionate about creating aesthetically pleasing and fully functional apps. I have a strong desire to continue learning and exploring new technologies, constantly seeking ways to improve my skills.
 

@@ -40,12 +40,19 @@ I'm proficient in the following languages and tools:
 <br>
 
 
+
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=viveeeeeek&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=viveeeeeek&theme=prussian&hide_border=true" />
 </p>
 <br>
-</div>
+
+
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <p><a href="https://holopin.io/@v1v3k's"><img src="https://holopin.me/v1v3k" alt="@v1v3k's1&#39;s Holopin board"></a></p>
+</details>
 
 
 ## Watch my contribution graph get eaten by Snake🐍 hisss!

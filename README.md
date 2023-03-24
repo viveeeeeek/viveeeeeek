@@ -55,6 +55,11 @@ I'm proficient in the following languages and tools:
 </details>
 
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## Watch my contribution graph get eaten by Snake🐍 hisss!
 ![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
 

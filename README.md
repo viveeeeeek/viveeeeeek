@@ -7,6 +7,18 @@
 As an experienced Flutter developer, I am passionate about creating aesthetically pleasing and fully functional apps. I have a strong desire to continue learning and exploring new technologies, constantly seeking ways to improve my skills.
 
 
+<br>
+
+<p float="left" align="center">
+
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/followers/viveeeeeek?style=for-the-badge&logo=github">
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/stars/viveeeeeek?style=for-the-badge&logo=git">
+  <a href="https://github.com/WillDev12/WillDev12">
+    <img src="https://img.shields.io/github/watchers/viveeeeeek/WillDev12?style=for-the-badge&logo=git">
+
+</p><br>
 
 ## 🚀 Skills and Tools  
 

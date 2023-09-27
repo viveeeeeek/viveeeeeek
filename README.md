@@ -57,12 +57,7 @@ I'm proficient in the following languages and tools:
 <br>
 
 
-
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-  <p><a href="https://holopin.io/@v1v3k's"><img src="https://holopin.me/v1v3k" alt="@v1v3k's1&#39;s Holopin board"></a></p>
-</details>
-
+<a href="https://holopin.io/@v1v3k's"><img src="https://holopin.me/v1v3k" alt="@v1v3k's1&#39;s Holopin board"></a>
 
 
 <!--START_SECTION:waka-->
@@ -76,10 +71,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-## Watch my contribution graph get eaten by Snake🐍 hisss!
-![snake gif](https://github.com/viveeeeeek/viveeeeeek/blob/output/github-contribution-grid-snake.svg)
 
 
 

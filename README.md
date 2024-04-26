@@ -63,7 +63,7 @@ I'm proficient in the following languages and tools:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2023 - To: 23 April 2024
+From: 23 March 2023 - To: 24 April 2024
 
 Total Time: 0 secs
 
